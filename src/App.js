@@ -1,23 +1,34 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar/Navbar';
+import Hero from './components/Hero/Hero';
+import Carousel from './components/Carousel/Carousel';
+import Card  from './components/Card/Card';
+import Archviz  from './components/Archviz/Archviz';
+import Support from './components/Support/Support';
+import About from './components/About/About';
+import Footer from './components/Footer/Footer';
+import Model from './Pages/Models/Model';
+import ModelGrid from './Pages/Models/ModelGrid';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar />
+      <ModelGrid>
+      { Array(9).fill().map((_, i) => (
+          <Model key={i}>
+            <h2>Card {i + 1}</h2>
+          </Model>
+        ))
+      }
+    </ModelGrid>
+      <Hero />
+      <Card />
+      <Carousel />
+      <Archviz />
+      <Support />
+      <About />
+      <Footer />
     </div>
   );
 }

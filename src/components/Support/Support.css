@@ -1,0 +1,127 @@
+
+  .support-container {
+    background-color: #030B0f;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+
+    background-image: url('bg-hexa.svg'); 
+    background-repeat: no-repeat;
+    background-position: 15% 45%;
+    background-attachment: local, scroll, fixed;
+    background-blend-mode: normal;
+    fill: wheat;
+    background-clip: padding-box;
+    }
+    
+  h1{ 
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  } 
+  .support-icons {
+    display: block;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+  .support-icons img{
+    width: 85px;
+    height: 85px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .support-icons img:hover {
+    transform: scale(0.98);
+  }
+  .support-names p{
+    color: white;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  .support-patron p{
+    color: white;
+  }
+  .support-patron {
+    margin-bottom: 50px;
+  }
+  .support-patron-names{
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-bottom: 10px;
+  }
+  .support-patron-names p {
+    margin: 15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+
+  .heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    color: rgb(241, 241, 241);
+    padding: 1px;
+  }
+  
+  .heading-text {
+    font-weight: 600;
+    font-size: 30px;
+    color: rgb(241, 241, 241);
+  }
+
+
+  .signup-btn {
+    background-color: rgb(28, 206, 28);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 30px;  
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+    margin-left: 30px;
+    text-align: center;
+    transition: all 0.2s ease-in-out;
+  }
+
+ 
+  
+  .signup-btn:hover {
+    background-color: green;
+    cursor: pointer;
+  }
+  
+  .signup-btn:active {
+    transform: scale(0.95);
+  }
+
+  .showcase {
+    display: flex;
+    margin: 40px;
+    padding: 10px;
+  }
+
+
+  .showcase-right{
+    padding: 40px;
+    border-radius: 10px;
+  }
+
+
+
+  .showcase-left{
+    color: white;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+  }

@@ -1,0 +1,27 @@
+<svg id="fbx_icon" data-name="fbx icon" xmlns="http://www.w3.org/2000/svg" width="57.309" height="75.752" viewBox="0 0 57.309 75.752">
+  <g id="Group_1" data-name="Group 1" transform="translate(0.619 0.774)">
+    <path id="Path_19" data-name="Path 19" d="M74.7,22.567V68.984a9.271,9.271,0,0,1-9.283,9.283H28.283A9.271,9.271,0,0,1,19,68.984v-55.7A9.271,9.271,0,0,1,28.283,4h27.85Z" transform="translate(-19 -4)" fill="#dfe2e3"/>
+  </g>
+  <g id="Group_2" data-name="Group 2" transform="translate(0 0)">
+    <path id="Path_20" data-name="Path 20" d="M64.96,78.552H27.826A10.024,10.024,0,0,1,17.8,68.526v-55.7A9.984,9.984,0,0,1,27.826,2.8h27.85a.756.756,0,0,1,.557.248L74.8,21.614a.922.922,0,0,1,.248.557V68.588A10.064,10.064,0,0,1,64.96,78.552ZM27.826,4.285a8.558,8.558,0,0,0-8.541,8.541v55.7a8.558,8.558,0,0,0,8.541,8.541H64.96A8.558,8.558,0,0,0,73.5,68.526V22.419L55.367,4.285Z" transform="translate(-17.8 -2.8)" fill="#2d2e2d"/>
+  </g>
+  <g id="Group_3" data-name="Group 3" transform="translate(9.283 65.046)">
+    <path id="Path_21" data-name="Path 21" d="M70.676,109.285H33.543a.753.753,0,0,1-.743-.743.8.8,0,0,1,.743-.743H70.676a.743.743,0,1,1,0,1.485Z" transform="translate(-32.8 -107.8)" fill="#202527"/>
+  </g>
+  <g id="Group_4" data-name="Group 4" transform="translate(9.283 57.619)">
+    <path id="Path_22" data-name="Path 22" d="M70.676,97.285H33.543a.753.753,0,0,1-.743-.743.8.8,0,0,1,.743-.743H70.676a.743.743,0,1,1,0,1.485Z" transform="translate(-32.8 -95.8)" fill="#202527"/>
+  </g>
+  <g id="Group_5" data-name="Group 5" transform="translate(9.283 50.192)">
+    <path id="Path_23" data-name="Path 23" d="M70.676,85.285H33.543a.753.753,0,0,1-.743-.743.8.8,0,0,1,.743-.743H70.676a.743.743,0,1,1,0,1.485Z" transform="translate(-32.8 -83.8)" fill="#202527"/>
+  </g>
+  <g id="Group_6" data-name="Group 6" transform="translate(35.401 0.805)" opacity="0.1">
+    <path id="Path_24" data-name="Path 24" d="M96.042,25.042V22.567L77.476,4H75v9.283A11.754,11.754,0,0,0,86.759,25.042Z" transform="translate(-75 -4)" fill="#030505"/>
+  </g>
+  <g id="Group_7" data-name="Group 7" transform="translate(37.876 0.805)">
+    <path id="Path_25" data-name="Path 25" d="M79,13.283a9.271,9.271,0,0,0,9.283,9.283h9.283L79,4Z" transform="translate(-79 -4)" fill="#202527"/>
+  </g>
+  <g id="Group_8" data-name="Group 8" transform="translate(37.134 0)">
+    <path id="Path_26" data-name="Path 26" d="M97.109,22.814H87.826A10.024,10.024,0,0,1,77.8,12.788V3.5a.8.8,0,0,1,.5-.743.766.766,0,0,1,.866.186L97.728,21.514a.766.766,0,0,1,.186.866A1.058,1.058,0,0,1,97.109,22.814ZM79.285,5.361v7.427a8.558,8.558,0,0,0,8.541,8.541h7.427Z" transform="translate(-77.8 -2.7)" fill="#202527"/>
+  </g>
+  <text id="_.FBX" data-name=".FBX" transform="translate(17.967 39.957)" fill="#141a1d" font-size="10" font-family="Helvetica"><tspan x="0" y="0">.FBX</tspan></text>
+</svg>
